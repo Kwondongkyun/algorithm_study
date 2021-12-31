@@ -19,6 +19,3 @@ public class N11399 {
         System.out.println(sum);
     }
 }
-
-
-- 쉽게 풀림
