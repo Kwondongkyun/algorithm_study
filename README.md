@@ -1,3 +1,3 @@
 ## Algorithm
 
-- 5585.java
+- 5585
